@@ -1,0 +1,12 @@
+.line-container {
+  display: flex;
+  justify-content: space-between;
+}
+.list-description {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.hr-line {
+  color: #9aa5b1;
+}
